@@ -54,5 +54,5 @@ I'm a **React Native Developer** based in Rawalpindi (Pakistan), with a passion 
 
 ## 📜 Certificates
 
-- **Certified React Native Developer** — [Link to Certificate](#)
-- **Mobile App Development Bootcamp** — [Link to Certificate](#)
+- **Certified React Native Developer** 
+- **Mobile App Development Bootcamp** 
