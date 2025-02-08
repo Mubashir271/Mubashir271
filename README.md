@@ -46,9 +46,10 @@ I'm a **React Native Developer** based in Rawalpindi (Pakistan), with a passion 
 
 ## 📬 Let's Connect!
 
-- **Email**: [jmubashir278@gmail.com](mailto:jmubashir278@gmail.com)
-- **LinkedIn**: [Mubashir Mughal]([https://www.linkedin.com/in/mubashirmughal271/])
-- **Twitter**: [@Mubashir271](https://twitter.com/Mubashir271)
+<p align="left">
+<a href="https://www.linkedin.com/in/mubashirmughal271/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mubashir271" height="30" width="40" /></a>
+<a href="https://instagram.com/ssup.mubashir_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mubashir271" height="30" width="40" /></a>
+</p>
 
 ---
 
