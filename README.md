@@ -29,6 +29,10 @@ I'm a **React Native Developer** based in Rawalpindi (Pakistan), with a passion 
 
 ---
 
+- 💼 **Mobile Application Developer** at Repla Technologies.
+
+---
+
 ## 🌱 Currently Learning:
 
 - **TypeScript** for React Native for better type safety.
