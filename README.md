@@ -16,7 +16,7 @@ I'm a **React Native Developer** based in Rawalpindi (Pakistan), with a passion 
 - Firebase, Node.js
 
 **State Management:**
-- Redux, React Context API , Restful API , GraphQl API
+- Redux, React Context API , Restful API , GraphQl API , ASyncStorage
 
 **Version Control & Deployment:**
 - Git, GitHub, GitLab
