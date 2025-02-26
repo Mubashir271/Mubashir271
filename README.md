@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mubashir Mughal!
 
-I'm a **React Native Developer** based in Rawalpindi (Pakistan), with a passion for creating scalable, high-performance mobile applications. I specialize in **React Native**, **Redux**, **API Integration**, and **Firebase**. I have experience building mobile apps from scratch, and I’m always looking to expand my skills  .
+I'm a **React Native Developer** based in Rawalpindi (Pakistan), with a passion for creating scalable, high-performance mobile applications. I specialize in **React Native**, **Redux**, **API Integration**, and **Firebase**. I have experience building mobile apps from scratch, and I’m always looking to expand my skills.
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubashir271&label=Profile%20views&color=0e75b6&style=flat" alt="Mubashir271" /> </p>
